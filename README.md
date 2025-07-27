@@ -42,4 +42,9 @@ This project builds a machine learning pipeline to detect fraudulent transaction
 ---
 
 ## 📌 File Structure
+credit-card-fraud-detection/
+├── fraud_detection.ipynb # Jupyter notebook
+├── README.md # Project summary
+└── images/
+└── confusion_matrix.png # Evaluation visual
 
